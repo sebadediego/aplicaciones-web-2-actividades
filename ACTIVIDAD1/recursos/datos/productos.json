@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Lenovo ThinkPad E14",
+    "precio": 899.99,
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "nombre": "Monitor Samsung 24 pulgadas Full HD",
+    "precio": 249.99,
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado mecánico Logitech MX Keys",
+    "precio": 129.99,
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "nombre": "Mouse inalámbrico Logitech MX Master 3",
+    "precio": 89.99,
+    "stock": 32
+  },
+  {
+    "id": 5,
+    "nombre": "Procesador Intel Core i7-12700K",
+    "precio": 389.99,
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "nombre": "Tarjeta gráfica NVIDIA RTX 4060 Ti",
+    "precio": 599.99,
+    "stock": 6
+  },
+  {
+    "id": 7,
+    "nombre": "Memoria RAM DDR4 16GB Corsair",
+    "precio": 79.99,
+    "stock": 28
+  },
+  {
+    "id": 8,
+    "nombre": "Disco SSD 1TB Samsung 980 PRO",
+    "precio": 149.99,
+    "stock": 18
+  },
+  {
+    "id": 9,
+    "nombre": "Placa madre ASUS ROG Strix B550-F",
+    "precio": 199.99,
+    "stock": 10
+  },
+  {
+    "id": 10,
+    "nombre": "Fuente de poder Corsair 750W 80+ Gold",
+    "precio": 129.99,
+    "stock": 14
+  },
+  {
+    "id": 11,
+    "nombre": "Auriculares gaming HyperX Cloud II",
+    "precio": 99.99,
+    "stock": 22
+  },
+  {
+    "id": 12,
+    "nombre": "Webcam Logitech C920 HD Pro",
+    "precio": 79.99,
+    "stock": 16
+  },
+  {
+    "id": 13,
+    "nombre": "Impresora HP LaserJet Pro M404n",
+    "precio": 229.99,
+    "stock": 7
+  },
+  {
+    "id": 14,
+    "nombre": "Router TP-Link Archer AX73 WiFi 6",
+    "precio": 149.99,
+    "stock": 11
+  },
+  {
+    "id": 15,
+    "nombre": "Tablet Samsung Galaxy Tab A8",
+    "precio": 299.99,
+    "stock": 9
+  }
+]

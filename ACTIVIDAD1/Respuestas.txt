@@ -1,0 +1,19 @@
+# Actividad 1 - Aplicaciones Web 2
+
+# Objeto Response - fetch()
+
+¿Qué tipo de proceso realiza fetch()?
+
+fetch() realiza una petición a un recurso mediante una URL. En este caso se utiliza para solicitar el archivo productos.json y obtener los datos almacenados en él.
+
+¿Por qué es asíncrono?
+
+Es asíncrono porque obtener una respuesta puede demorar. Mientras se espera esa respuesta, JavaScript puede continuar con otras tareas sin detener completamente la ejecución de la página.
+
+¿Qué protocolo utiliza en este caso?
+
+En este caso utiliza el protocolo HTTP, ya que estamos accediendo al recurso desde un servidor web local.
+
+¿Cuál es el URL completo al recurso productos.json?
+
+http://127.0.0.1:5500/recursos/datos/productos.json
