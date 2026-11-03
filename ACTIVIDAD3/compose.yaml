@@ -1,0 +1,13 @@
+services:
+  bd:
+    build: ./__docker-pg
+    environment:
+      POSTGRES_USER: ${BD_USER}
+      POSTGRES_PASSWORD: ${BD_PASS}
+      POSTGRES_DB: ${BD_BD}
+    ports:
+      - "${BD_PORT:-5432}:5432"
+    volumes:
+      - datos-admin:/var/lib/postgresql/data
+volumes:
+  datos-admin:
